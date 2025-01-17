@@ -1,0 +1,10 @@
+{
+	"id": "alinti",
+	"name": "Durum Çubuğu Alıntıları",
+	"version": "1.0.0",
+	"minAppVersion": "1.2.0",
+	"description": "Günlük Alıntıları Durum çubuğunda Göster",
+	"author": "Mehmet Keçeci",
+	"authorUrl": "https://github.com/WhiteSymmetry",
+	"isDesktopOnly": false
+}
