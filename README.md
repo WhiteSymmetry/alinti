@@ -1,7 +1,7 @@
 # alinti
 Durum Çubuğu Alıntıları
 
-<img width="720" alt="Durum Çubuğu Alıntıları" src="https://raw.githubusercontent.com/WhiteSymmetry/alinti/refs/heads/main/alinti.png">
+<img width="720" alt="Durum Çubuğu Alıntıları" src="alinti.png">
 
 # Status Bar Quotes (Turkish Quotes)
 
