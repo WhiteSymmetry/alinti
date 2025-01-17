@@ -1,0 +1,2 @@
+# alinti
+Durum Çubuğu Alıntıları
